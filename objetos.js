@@ -5,7 +5,7 @@ console.log(infosPessoa[1]);
 
 const objetoPessoa = {
     nome: 'Marcos Martins',
-    idade: 26,
+    idade: 27,
     cpf:46610815879,
     turma: 'JavaScript'
 }
